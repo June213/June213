@@ -1,0 +1,3 @@
+- 👋 Hi, I’m June
+- 🌱 I’m currently learning C and C++ in 42 Urduliz
+- 📫 How to reach me jsalaberria13@gmail.com
